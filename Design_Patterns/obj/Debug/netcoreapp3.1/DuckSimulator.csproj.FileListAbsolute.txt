@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.exe
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.deps.json
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.runtimeconfig.json
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.dll
+C:\Users\HP\source\repos\Design_Patterns\bin\Debug\netcoreapp3.1\DuckSimulator.pdb
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.AssemblyInfo.cs
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.dll
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.pdb
+C:\Users\HP\source\repos\Design_Patterns\obj\Debug\netcoreapp3.1\DuckSimulator.genruntimeconfig.cache

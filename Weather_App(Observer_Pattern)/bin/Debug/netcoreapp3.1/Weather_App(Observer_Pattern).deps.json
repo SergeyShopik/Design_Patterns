@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Weather_App(Observer_Pattern)/1.0.0": {
+        "runtime": {
+          "Weather_App(Observer_Pattern).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Weather_App(Observer_Pattern)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Coffee_Shop(Decorator_Pattern)/1.0.0": {
+        "runtime": {
+          "Coffee_Shop(Decorator_Pattern).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Coffee_Shop(Decorator_Pattern)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).exe
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).deps.json
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).runtimeconfig.json
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).runtimeconfig.dev.json
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).dll
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\bin\Debug\netcoreapp3.1\Pizza_Shop(Factory).pdb
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).AssemblyInfo.cs
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).dll
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).pdb
+C:\Users\HP\source\repos\Pizza_Shop(Factory)\obj\Debug\netcoreapp3.1\Pizza_Shop(Factory).genruntimeconfig.cache
